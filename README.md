@@ -1,5 +1,4 @@
 # LovingSpam
-https://www.youtube.com/watch?v=7ve3yVljEF0
 
 This simple code allows you to spam your love to anyone you choose! 
 
